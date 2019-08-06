@@ -1,0 +1,31 @@
+{
+  "name": "fs-reverse-modern",
+  "version": "1.0.0",
+  "description": "Modernising and maintaining the fs-reverse code",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node src/tests/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theLAZYmd/fs-reverse-modern.git"
+  },
+  "keywords": [
+    "fs",
+    "file-system",
+    "memory",
+    "reverse",
+    "read",
+    "buffer",
+    "express"
+  ],
+  "author": "theLAZYmd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theLAZYmd/fs-reverse-modern/issues"
+  },
+  "homepage": "https://github.com/theLAZYmd/fs-reverse-modern#readme"
+}
